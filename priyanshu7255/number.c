@@ -3,13 +3,12 @@
 int main()
 {
 
-  int number[10];
+  int number;
   
   printf("please enter 10 number:");
-  for(int i=0;i=10;i++)
-  {
-  scanf("%d",&number[i]);
-  }
+
+  scanf("%d",&number);
+  
   printf("\n%d", number);
 
 
