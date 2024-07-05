@@ -15,10 +15,5 @@ printf("this this even number: ");
 
 
 
-
-
- 
-
-
     return 0;
 }
